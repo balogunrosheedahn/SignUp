@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146354989470",
+    "project_id": "signup-c6630",
+    "storage_bucket": "signup-c6630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146354989470:android:8b12e5404172193f9f0e8f",
+        "android_client_info": {
+          "package_name": "com.nens.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146354989470-n86ftjslrics41pj3v1phg38d2etgk50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFa7V5aedLx8uMxqjIdEeKMVopIP_0twA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146354989470-n86ftjslrics41pj3v1phg38d2etgk50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
